@@ -31,7 +31,7 @@ export default function UnderConstruction() {
 
       <div className="flex items-center justify-center mt-10">
         <p className="text-sm text-center pb-6">
-          &copy; 2023 Arjun | All rights reserved.
+          &copy; 2025 Arjun | All rights reserved.
         </p>
       </div>
     </section>
